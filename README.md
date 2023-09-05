@@ -32,7 +32,7 @@
 
 ### 🌐 Social Network 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/deborah-douillet) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ deborah-douillet) 
 
 [![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)](https://www.codewars.com/users/D3borahD)
 
