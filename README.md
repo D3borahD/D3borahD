@@ -30,13 +30,12 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-### 🌐 Social Network 
+### 🌐 Other 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/deborah-douillet
+[![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)](https://www.codewars.com/users/D3borahD) 
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://d3borahd.github.io/documentation/) 
+> [Personal documentation](https://d3borahd.github.io/documentation/)
 
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://d3borahd.github.io/documentation/) [Personal documentation](https://d3borahd.github.io/documentation/)
-
-[![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)](https://www.codewars.com/users/D3borahD)
 
 <div align="center">
   
