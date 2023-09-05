@@ -1,9 +1,10 @@
 <div align="center">
+  
 # Deborah Douillet 🇫🇷
 
-## 📖 About Me 
+## 💻 Fullstack developer junior
 
-💻 Fullstack developer junior
+</div>
 
 ### Languages 
 
@@ -42,6 +43,6 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=D3borahD&theme=tokyonight&show_icons=true)
-</div>
+
 
 
