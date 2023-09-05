@@ -1,8 +1,5 @@
 # Hi, I'm Deborah
 
-![Static Badge](https://img.shields.io/badge/html?logo=html)
-
-
 ## I'm a french backend and frontend Developer 💻
 
 ### Languages and Tools 🛠️
