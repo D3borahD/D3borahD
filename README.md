@@ -1,6 +1,6 @@
 <div align="center">
   
-# Deborah Douillet 🇫🇷
+# DEBORAH DOUILLET 🇫🇷
 
 ## 💻 Fullstack developer junior
 
