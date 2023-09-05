@@ -32,14 +32,11 @@
 
 ### Social Network 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/deborah-douillet)
 
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+[![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)]([https://www.codewars.com/users/D3borahD/badges](https://www.codewars.com/users/D3borahD))
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/D3borahD/badges)
-![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)](https://www.codewars.com/users/D3borahD/badges)
-
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://d3borahd.github.io/documentation/) Personal documentation
 
 
 <div align="center">
