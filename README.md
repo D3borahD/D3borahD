@@ -36,8 +36,8 @@
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)(https://www.codewars.com/users/D3borahD/badges)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/D3borahD/badges)
+![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)](https://www.codewars.com/users/D3borahD/badges)
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
