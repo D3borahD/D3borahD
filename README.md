@@ -32,17 +32,19 @@
 
 ### Social Network 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)()
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)(https://www.codewars.com/users/D3borahD/badges)
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+<div align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=D3borahD&theme=tokyonight&show_icons=true)
+</div>
 
 
 
