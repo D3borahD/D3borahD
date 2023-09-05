@@ -32,7 +32,9 @@
 
 ### 🌐 Social Network 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/deborah-douillet) [![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)]([https://www.codewars.com/users/D3borahD/badges](https://www.codewars.com/users/D3borahD))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/deborah-douillet) 
+
+[![Codewars](https://www.codewars.com/users/D3borahD/badges/micro)](https://www.codewars.com/users/D3borahD)
 
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://d3borahd.github.io/documentation/) [Personal documentation](https://d3borahd.github.io/documentation/)
 
