@@ -1,6 +1,11 @@
 # Hi, I'm Deborah
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=html&logoColor=red)
+![HTML](https://img.shields.io/badge/html?logo=html&logoColor=red)
+
+
+
 
 ## I'm a french backend and frontend Developer 💻
 
